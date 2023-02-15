@@ -6,6 +6,7 @@
 internal_logs/
 logs/
 .DS_Store
+.idea/
 
 # User-specific files
 *.rsuser
