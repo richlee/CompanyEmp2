@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7s2260AlMQ0AGtIw66X++jEE6dtATjMdhFPVB77GVZuupCHFnYt5gb0SErK/gKPPMKOvQ+YX9Ap5/wA0GqGiFA==",
+  "dgSpecHash": "Nfz6/GiMHp3qDUSOhOkLvev+BGmJ64mLskfo1/90YxvJ2x1PDvJyKchaWj3ZSQFpjLBoiQ7jtSZuuRSl5TDzwg==",
   "success": true,
-  "projectFilePath": "/Users/richard.lee/dev/CompanyEmp2/Repository/Repository.csproj",
+  "projectFilePath": "C:\\dev\\CompanyEmp2\\Repository\\Repository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

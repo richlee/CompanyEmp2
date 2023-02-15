@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4YWQaPYQRsQ4/J18m/eQdO5N5eAp8iYKQF2FdRHwzGq8hy0s0trpR4H5bE9q9nGDvplM+nT98VtyUgs7MPmx4A==",
+  "dgSpecHash": "leOCAGX5ERGSMuYrHf1POirtJDULwNw/KFQSxj4g6DDSQ+P7+9HTVzW8/90bhct85cifS9qeeDV1qE/iOs3yQQ==",
   "success": true,
-  "projectFilePath": "/Users/richard.lee/dev/CompanyEmp2/Contracts/Contracts.csproj",
+  "projectFilePath": "C:\\dev\\CompanyEmp2\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

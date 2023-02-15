@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1SPCwigjfp1cNh33oTBni+IdkN6UnOpoN5dZpQpFSFfu51vJFn+kPuScoYOdOC9lZi7uuHOyvIASCBEg62cww==",
+  "dgSpecHash": "/RuEn6+Vg6peQZbxxB2/J8/pE+IRb/AQoMSPa8UQsLQvM/oouKNRg1FUft6I7QBjOO77nFyhgcSIWSKCBzYIsQ==",
   "success": true,
-  "projectFilePath": "/Users/richard.lee/dev/CompanyEmp2/Entities/Entities.csproj",
+  "projectFilePath": "C:\\dev\\CompanyEmp2\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
