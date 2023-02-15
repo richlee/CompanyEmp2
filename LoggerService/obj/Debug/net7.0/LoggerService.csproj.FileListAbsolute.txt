@@ -1,0 +1,15 @@
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/bin/Debug/net7.0/LoggerService.deps.json
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/bin/Debug/net7.0/LoggerService.dll
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/bin/Debug/net7.0/LoggerService.pdb
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/bin/Debug/net7.0/Contracts.dll
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/bin/Debug/net7.0/Contracts.pdb
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.csproj.AssemblyReference.cache
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.AssemblyInfoInputs.cache
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.AssemblyInfo.cs
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.csproj.CopyComplete
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.dll
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/refint/LoggerService.dll
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/LoggerService.pdb
+/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/Debug/net7.0/ref/LoggerService.dll
