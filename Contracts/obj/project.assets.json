@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Contracts/Contracts.csproj",
+      "projectUniqueName": "/Users/richard.lee/dev/CompanyEmp2/Contracts/Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Contracts/Contracts.csproj",
+      "projectPath": "/Users/richard.lee/dev/CompanyEmp2/Contracts/Contracts.csproj",
       "packagesPath": "/Users/richard.lee/.nuget/packages/",
-      "outputPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Contracts/obj/",
+      "outputPath": "/Users/richard.lee/dev/CompanyEmp2/Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/richard.lee/.nuget/NuGet/NuGet.Config"

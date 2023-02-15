@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3V+u+UXw3lR4ZWeNPRHKyHYJa3UB1SdtudvdjkGHQIRcDU0urBxpxnSpyFHQYmBgRx3/J+r3QGoMpVvwN8oPgQ==",
+  "dgSpecHash": "omPcOey0tINXEOUDL0Tv0kw4g7FKbUgKKXJxRZ06u5Xaz8d65qeOlzaUfl6/O0fUVSfWEChqLNNourEeU5M97g==",
   "success": true,
-  "projectFilePath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/CompanyEmp2/CompanyEmp2.csproj",
+  "projectFilePath": "/Users/richard.lee/dev/CompanyEmp2/CompanyEmp2/CompanyEmp2.csproj",
   "expectedPackageFiles": [
     "/Users/richard.lee/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/richard.lee/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

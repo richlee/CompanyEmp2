@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ruKEkjpDZz5JhKbQ7acHZp1lON/syT6KljEoD6xKd3z5C5Ri3ik3dDEmbJ+hdjrE4ZtsyjlftTaRbE17cu7vng==",
+  "dgSpecHash": "7s2260AlMQ0AGtIw66X++jEE6dtATjMdhFPVB77GVZuupCHFnYt5gb0SErK/gKPPMKOvQ+YX9Ap5/wA0GqGiFA==",
   "success": true,
-  "projectFilePath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Repository/Repository.csproj",
+  "projectFilePath": "/Users/richard.lee/dev/CompanyEmp2/Repository/Repository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

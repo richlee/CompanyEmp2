@@ -509,11 +509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/LoggerService/LoggerService.csproj",
+      "projectUniqueName": "/Users/richard.lee/dev/CompanyEmp2/LoggerService/LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/LoggerService/LoggerService.csproj",
+      "projectPath": "/Users/richard.lee/dev/CompanyEmp2/LoggerService/LoggerService.csproj",
       "packagesPath": "/Users/richard.lee/.nuget/packages/",
-      "outputPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/LoggerService/obj/",
+      "outputPath": "/Users/richard.lee/dev/CompanyEmp2/LoggerService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/richard.lee/.nuget/NuGet/NuGet.Config"
@@ -528,8 +528,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Contracts/Contracts.csproj": {
-              "projectPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Contracts/Contracts.csproj"
+            "/Users/richard.lee/dev/CompanyEmp2/Contracts/Contracts.csproj": {
+              "projectPath": "/Users/richard.lee/dev/CompanyEmp2/Contracts/Contracts.csproj"
             }
           }
         }

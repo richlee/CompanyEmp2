@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Entities/Entities.csproj",
+      "projectUniqueName": "/Users/richard.lee/dev/CompanyEmp2/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Entities/Entities.csproj",
+      "projectPath": "/Users/richard.lee/dev/CompanyEmp2/Entities/Entities.csproj",
       "packagesPath": "/Users/richard.lee/.nuget/packages/",
-      "outputPath": "/Users/richard.lee/dev/Ultimate ASP.NET/CompanyEmp2/Entities/obj/",
+      "outputPath": "/Users/richard.lee/dev/CompanyEmp2/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/richard.lee/.nuget/NuGet/NuGet.Config"
